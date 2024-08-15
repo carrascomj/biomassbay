@@ -29,7 +29,7 @@ rye add --dev ipykernel  # or pip install ipykernel
 python -m ipykernel install --user --name=biomassbay
 ```
 
-> Alternatively, install everything on the python environment containing your jupyterlab, proceed on your on risk!
+> Alternatively, install everything on the python environment containing your jupyterlab, proceed on your own risk!
 
 Finally, open the notebook on jupyterlab:
 
